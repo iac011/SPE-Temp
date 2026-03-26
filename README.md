@@ -80,6 +80,24 @@ Create a `temperature_mapping.csv` file with the following columns:
    - Uses the trained 1D-CNN model to determine the temperature.
    - Outputs the determined temperature for each file to the console.
 
+## Citation
+
+If you use this code or framework in your research or project, please cite it as follows:
+
+**BibTeX:**
+```bibtex
+@software{spet_1dcnn_2026,
+  author = {Guanyu Cai},
+  title = {SPE-T: A 1D-CNN Framework for Spectral-Temperature Determination},
+  year = {2026},
+  publisher = {GitHub},
+  journal = {SPE-Temp},
+  howpublished = {\\url{https://github.com/iac011/SPE-Temp}}
+}
+```
+
+**APA:**
+> Guanyu Cai. (2026). *SPE-T: A 1D-CNN Framework for Spectral-Temperature Determination* [Computer software]. GitHub. https://github.com/iac011/SPE-Temp
+
 ## License
 MIT License
-
